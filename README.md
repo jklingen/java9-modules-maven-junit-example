@@ -1,3 +1,6 @@
+# Note
+This repo was intended as a basic JPMS example while JDK9 grew up from preview to final stage. It has not been tested with or updated for later JDKs. There are probably more recent examples out there by now.
+
 # Java 9 Modules Example with Maven and JUnit
 This simple project shows how Maven can be used to build Java 9 modules. 
 
